@@ -1,0 +1,7 @@
+gunicorn[gevent]==21.0.1
+hypercorn[uvloop]==0.16.0
+
+flask==3.0.0
+quart==0.19.4
+
+numpy==1.26.4
